@@ -1,4 +1,4 @@
----- Solving Travelling Salesman Problem using Ant Colony Optimization ----
+---- Solving Instances Of The Travelling Salesman Problem using Ant Colony Optimization ----
 
 The TSPLIB is used to enter tsps into the program.
 The folder tsps contains some example tsps.
